@@ -5,10 +5,10 @@ FRC team the Sneaky Snakes' custom button panel code for DESTINATION : DEEP SPAC
 # Cloning this repository 
 
 First, you have to download and install Git Bash into your device.
-You can download Git Bash from here : [Git Bash]([https://git-scm.com/downloads](https://git-scm.com/downloads))
+You can download Git Bash from here : [Git Bash](https://git-scm.com/downloads)
 
 
-After downloading and installing the Git Bash into your device, you have to open [this repository]([https://github.com/sneakysnakesfrc/sneaky-buttons](https://github.com/sneakysnakesfrc/sneaky-buttons)) in your browser and copy the clone URL.
+After downloading and installing the Git Bash into your device, you have to open [this repository](https://github.com/sneakysnakesfrc/sneaky-buttons/) in your browser and copy the clone URL.
 
 Then open the Git Bash, go to the directory which you want to clone the repository and type that command.
 
