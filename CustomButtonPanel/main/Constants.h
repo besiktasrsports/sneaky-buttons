@@ -28,6 +28,7 @@ public:
       
       return 0;
     }
+    
     else{
       
       return (1+buttonNumber);
@@ -37,8 +38,12 @@ public:
     
   
   void setupButtons(){
-    for(int i = 2;i<17;i++){
+    for(int i = 2;i<14;i++){
       pinMode(i,INPUT_PULLUP);
+      
     }
+    pinMode(button13, INPUT_PULLUP);
+    pinMode(button14, INPUT_PULLUP);
+    pinMode(button15, INPUT_PULLUP);
   }
 };
